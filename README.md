@@ -27,9 +27,9 @@ songplay_id, start_time, user_id, level, song_id, artist_id, session_id, locatio
 
 ## Data Lake pipeline processing options:
 - **Option 1 : S3 + Spark on local mode** : for testing only not use for production
-![image info](./diagram1.png)
+![image info](./diagram1.PNG)
 - **Option 2 : S3 + Spark in EMR cluster on standalone mode** :
-![image info](./diagram.png)
+![image info](./diagram.PNG)
 
 ## How to run this project :
 To run this project, please following the below steps :
